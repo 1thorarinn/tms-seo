@@ -1,0 +1,7 @@
+{
+    "name": "tmsoftware/tms-seo",
+    "description": "Settings for theme/plugin in wordpress",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
